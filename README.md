@@ -1,4 +1,4 @@
-# Bot_Whatapp_Mensagem_Python
+# Troca Extencao TKinter
 Um Bot em Python quem envia mensagem a grupos
 
 # Requisitos
