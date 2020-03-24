@@ -7,4 +7,4 @@ Um Bot em Python quem envia mensagem a grupos
 # Para usar
  - Baixe o arquivo rename-extension.py ou rename-extension.exe
  - Instale o Python 3 ou superior (https://www.python.org/)
- - execute o arquivo main.py
+ - execute o arquivo  rename-extension.py ou rename-extension.exe
